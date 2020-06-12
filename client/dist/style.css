@@ -1,0 +1,42 @@
+body {
+  background-color: mintcream;
+  font-family: 'Lucida Grande', sans-serif;
+}
+
+#app {
+  margin: auto;
+  text-align: center;
+}
+
+.taskLabels {
+  margin-right: 15px;
+}
+
+#taskName, #timeHour {
+  margin-left: 5px;
+}
+
+.time {
+  width: 22px;
+  text-align: center;
+}
+
+table {
+  margin: auto;
+  text-align: center;
+  align-content: center;
+}
+
+th {
+  padding-bottom: 7px;
+}
+
+td {
+  padding-left: 15px;
+}
+
+img {
+  height: 100px;
+  width: 100px;
+  padding-bottom: 30px;
+}
